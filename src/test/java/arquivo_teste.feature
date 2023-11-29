@@ -1,3 +1,5 @@
+#Author: Ana Laura
+
 Feature: Cliente faz saque de dinheiro como um cliente
   Eu gostaria de sacar dinheiro em caixa eletrônico, para que eu não tenha que esperar numa fila de banco
 
